@@ -1,12 +1,12 @@
 {
-  "objectName" : "pathicc-thepile",
+  "objectName" : "pathicc-floatpile",
   "rarity" : "Essential",
   "category" : "decorative",
   "price" : 50,
   "printable" : false,
 
   "description" : "ah. the pile.",
-  "shortdescription" : "The P I L E",
+  "shortdescription" : "The Floaty P I L E",
   "race" : "protectorate",
 
   "lightColor" : [0, 0, 0],
@@ -21,8 +21,7 @@
       "flipImages" : true,
       "lightPosition" : [-1, 0],
 
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
+      "spaceScan" : 0.1
 
     },
     {
@@ -32,8 +31,7 @@
       "direction" : "right",
       "lightPosition" : [0, 0],
 
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
+      "spaceScan" : 0.1
     }
   ],
 
