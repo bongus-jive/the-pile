@@ -1,0 +1,12 @@
+{
+  "input" : [  
+    { "item" : "hardenedcarapace", "count" : 1 },
+	{ "item" : "fleshblock", "count" : 1 },
+	{ "item" : "cobblestonematerial", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "pathicc-floatpile",
+    "count" : 1
+  },
+  "groups" : [ "plain", "all" ]
+}
