@@ -1,11 +1,7 @@
 {
   "input": [
-    { "item": "hardenedcarapace", "count": 1 },
-    { "item": "fleshblock", "count": 1 }
+    [ "pathicc-crab", 3 ]
   ],
-  "output": {
-    "item": "pathicc-thepile",
-    "count": 1
-  },
+  "output": "pathicc-thepile",
   "groups": [ "plain", "all" ]
 }
