@@ -1,0 +1,17 @@
+{
+  "animatedParts": {
+    "stateTypes": {
+      "light": {
+        "default": "off",
+        "states": {
+          "off": { },
+          "on": { }
+        }
+      }
+    }
+  },
+  "sounds": {
+    "on": [ "/pat/thepile/sfx/greetings.ogg" ],
+    "off": [ "/pat/thepile/sfx/lungboy.ogg" ]
+  }
+}

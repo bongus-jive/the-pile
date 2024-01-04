@@ -1,0 +1,33 @@
+{
+  "builder": "/pat/thepile/old/update.lua",
+  "_newItem": "pathicc-thepile",
+  "tooltipFields": { "rarityLabel": "^red;deprecated" },
+
+  "objectName": "pathicc-floatpile",
+  "shortdescription": "The Floaty P I L E",
+  "description": "ah. the pile.",
+  "inventoryIcon": "/pat/thepile/pile_float.png",
+  "rarity": "Common",
+  "category": "decorative",
+  "race": "generic",
+  "price": 0,
+  "printable": false,
+  "lightColor": [ 0, 0, 0 ],
+  "inputNodes": [ [ 0, 0 ] ],
+
+  "orientations": [
+    {
+      "dualImage": "/pat/thepile/pile_float.png",
+      "spaceScan": 0.1,
+      "anchors": [ ],
+      "imagePosition": [ 0, 0 ]
+    }
+  ],
+
+  "animation": "/pat/thepile/pile.animation",
+
+  "scriptDelta": 0,
+  "scripts": [ "/objects/wired/light/light.lua" ],
+
+  "defaultLightState": false
+}
