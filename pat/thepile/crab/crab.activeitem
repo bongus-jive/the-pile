@@ -1,0 +1,14 @@
+{
+  "itemName": "pathicc-crab",
+  "shortdescription": "Crab",
+  "inventoryIcon": "/pat/thepile/crab/crab.png",
+  "rarity": "Legendary",
+  "description": "haha y e s,\n  crab",
+  "learnBlueprintsOnPickup": [ "pathicc-thepile" ],
+
+  "builder": "/pat/thepile/crab/iconHueshift.lua",
+  "iconHueRange": [ -6, 24 ],
+
+  "scripts": [ "placeCritter.lua" ],
+  "monsterName": "crabcritter"
+}
