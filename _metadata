@@ -1,10 +1,10 @@
 {
-  "version" : "ᴨbe145.23",
-  "tags" : "Miscellaneous|Furniture and Objects",
   "author" : "pathicc",
-  "description" : "[h1]ah.\nthe pile.[/h1]\n\n[b]look at these fellows, experiencing the j o y and h a p p i n e s s of the P I L E.[/b]\nit is a nice pile of crustaceans. you make it with your hands boyo.\n\n[url=https://discord.gg/GdsQSgV]join the p i l e .[/url]",
-  "name" : "ah. the pile",
+  "description" : "[h1]ah.\nthe pile.[/h1]\n\n[b]look at these fellows, experiencing the j o y and h a p p i n e s s of the P I L E.[/b]\n\ncollect crabs with a bug net. then craft a pile with your hands\n\n[url=https://discord.gg/GdsQSgV]join the p i l e .[/url]",
   "friendlyName" : "ah. the pile",
+  "link" : "steam://url/CommunityFilePage/1311277256",
+  "name" : "ah. the pile",
   "steamContentId" : "1311277256",
-  "link" : "steam://url/CommunityFilePage/1311277256"
+  "tags" : "Miscellaneous|Furniture and Objects",
+  "version" : "ᴨbe145.23"
 }
