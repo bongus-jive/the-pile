@@ -1,0 +1,41 @@
+{
+  "objectName": "pathicc-thepile",
+  "shortdescription": "The P I L E",
+  "description": "ah. the pile.",
+  "inventoryIcon": "icon.png",
+  "rarity": "Legendary",
+  "category": "decorative",
+  "race": "generic",
+  "price": 69,
+  "printable": false,
+  "lightColor": [ 0, 0, 0 ],
+  "inputNodes": [ [ 0, 0 ] ],
+
+  "orientations": [
+    {
+      "dualImage": "pile.png",
+      "spaceScan": 0.1,
+      "anchors": [ "bottom" ],
+      "imagePosition": [ -8, -8 ]
+    },
+    {
+      "dualImage": "pile.png?flipy",
+      "spaceScan": 0.1,
+      "anchors": [ "top" ],
+      "imagePosition": [ -8, -16 ]
+    },
+    {
+      "dualImage": "pile_float.png",
+      "spaceScan": 0.1,
+      "anchors": [ ],
+      "imagePosition": [ -8, -17 ]
+    }
+  ],
+
+  "animation": "pile.animation",
+
+  "scriptDelta": 0,
+  "scripts": [ "/objects/wired/light/light.lua" ],
+
+  "defaultLightState": false
+}
