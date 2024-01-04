@@ -1,0 +1,4 @@
+[
+    { "op": "add", "path": "/dropPools/0/bugnet", "value": "pathicc-crabbugnet" },
+    { "op": "add", "path": "/baseParameters/scripts/-", "value": "/monsters/critter/crabcritter/pathicc-crabbugnet.lua" }
+]
